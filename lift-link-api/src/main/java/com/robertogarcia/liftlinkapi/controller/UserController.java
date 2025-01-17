@@ -1,0 +1,9 @@
+package com.robertogarcia.liftlinkapi.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class UserController {
+
+
+}
